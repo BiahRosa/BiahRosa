@@ -1,6 +1,5 @@
-## Hi there 👋
-
-# About Me
+# Hello there 👋
+## About Me
 
 I'm a student in Analysis and Systems Development with knowledge in software development, databases, and cloud cybersecurity. I have experience with GitHub, Python, Excel, and software and hardware concepts, and I'm improving my knowledge in Java and Object-Oriented Programming (OOP). I have an analytical profile, strategic thinking, and ease of learning, as well as good communication and teamwork skills. I'm looking for an opportunity to apply my skills in the technology sector, contributing to innovative solutions in a dynamic and collaborative environment.
 
